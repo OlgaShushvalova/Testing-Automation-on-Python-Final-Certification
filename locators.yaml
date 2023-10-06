@@ -1,0 +1,9 @@
+xpath:
+    LOCATOR_LOGIN_FIELD: //*[@id="login"]/div[1]/label/input
+    LOCATOR_PASS_FIELD: //*[@id="login"]/div[2]/label/input
+    LOCATOR_ABOUT: /html/body/div[1]/main/nav/ul/li[1]/a
+    LOCATOR_SUCCESS: //*[@id="app"]/main/nav/ul/li[3]/a
+
+css:
+     LOCATOR_LOGIN_BTN: button
+     LOCATOR_TITLE: html body div#app main.svelte-1pbgeyl div.container.svelte-1pbgeyl div.container.svelte-z9xc0 h1.svelte-z9xc0

@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+
+login: IvanP
+password: e794244c93
+
+font: 32px
+
